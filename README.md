@@ -1,56 +1,45 @@
-👋 Hi, I'm Brinda Vipparthy
-Data Science • Analytics • Programming • Bioinformatics • Databases
+# 👋 Hi, I'm Brinda Vipparthy
 
-Welcome to my GitHub! I’m passionate about using data, programming, and analytical thinking to solve real-world problems — in both life sciences and general data science domains.
+### #DataScience #Analytics #Python #R #SQL #Bioinformatics #Databases #MachineLearning
 
-🔎 About Me
+Welcome to my GitHub! I’m passionate about using data, programming, and analytics to solve real-world problems across both **data science** and **life sciences**.
 
-🎓 Background in biology and data-driven research
+---
 
-💻 Skilled in Python, R, and SQL, with experience building analytical and computational workflows
+## 🔎 About Me
 
-📊 Strong foundation in data analysis, including cleaning, transformation, visualization, and statistical interpretation
+- 🎓 Background in **biology, computation, and data-driven research**  
+- 💻 Experience with **Python, R, and SQL** for analysis, automation, and exploratory work  
+- 📊 Strong skills in **data cleaning, transformation, visualization, and statistical analysis**  
+- 🤖 Familiar with **data science principles**, including EDA, model evaluation, and reproducible workflows  
+- 🗂️ Knowledgeable in **databases** and working with structured/unstructured datasets  
+- 🔬 Able to apply programming and analytics to **biological and non-biological data**  
+- 🚀 Currently expanding my **data analytics** and **data science** capabilities through practical projects  
 
-🤖 Knowledge of data science principles, including machine learning fundamentals, exploratory analysis, and model evaluation
+---
 
-🗂️ Comfortable working with databases and structured/unstructured datasets
+## 🛠️ Skills & Technologies
 
-🔬 Experience applying programming and data analysis to biological datasets (genomics, lab data, etc.)
+**Languages:**  
+Python, R, SQL  
 
-🚀 Currently strengthening my data analytics and applied data science skills through hands-on projects
+**Data Science / Analytics:**  
+Pandas, NumPy, SciPy, Scikit-learn, Jupyter, Matplotlib, Seaborn  
 
-🛠️ Tools & Technologies
+**Bioinformatics (when relevant):**  
+Biopython, DESeq2, data processing pipelines  
 
-Languages: Python, R, SQL
-Data Science / Analytics: Pandas, NumPy, SciPy, Scikit-learn, Jupyter, Matplotlib/Seaborn
-Bioinformatics (when relevant): Biopython, DESeq2, data pipelines
-Databases: MySQL, PostgreSQL fundamentals
-Other: Git/GitHub, Linux CLI, statistical methods, reproducible workflows
+**Databases:**  
+MySQL, PostgreSQL (fundamentals)  
 
-📚 What I’m Working On
+**Other Tools:**  
+Git/GitHub, Linux CLI, statistical analysis, data visualization  
 
-Developing data science and analytics projects that demonstrate end-to-end problem solving
+---
 
-Building visualizations and dashboards that communicate insights clearly
+## 📚 Current Projects
 
-Applying statistical and machine learning techniques to real datasets
-
-Creating projects that bridge biology and data science while remaining relevant to broader analytics roles
-
-🌱 Current Focus
-
-I’m actively expanding my skills in data analytics, with a growing focus on:
-
-Data cleaning and preprocessing
-
-Statistical analysis
-
-Visualization best practices
-
-Real-world dataset exploration
-
-Machine learning fundamentals
-
-📫 Connect With Me
-
-Feel free to explore my repositories — I’m continuously adding new projects as I grow in both data science and bioinformatics programming.
+- End-to-end **data science** and **analytics** workflows  
+- Exploratory data analysis (EDA) on real-world datasets  
+- Visualization projects that communicate insights effectively  
+- Projects combining **biology + d**
