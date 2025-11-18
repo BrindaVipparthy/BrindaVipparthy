@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brinda Vipparthy
 
-### DataScience  ** Analytics ** Python ** R ** SQL ** Bioinformatics ** Databases ** MachineLearning
+### DataScience | Analytics | Python | R | SQL | Bioinformatics | Databases | MachineLearning
 
 Welcome to my GitHub! I’m passionate about using data, programming, and analytics to solve real-world problems across both **data science** and **life sciences**.
 
