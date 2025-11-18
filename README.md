@@ -37,9 +37,16 @@ Git/GitHub, Linux CLI, statistical analysis, data visualization
 
 ---
 
-## 📚 Current Projects
 
-- End-to-end **data science** and **analytics** workflows  
-- Exploratory data analysis (EDA) on real-world datasets  
-- Visualization projects that communicate insights effectively  
-- Projects combining **biology + d**
+## 🌱 Currently Learning
+
+- Advanced data analytics  
+- Statistical methods and feature exploration  
+- Machine learning fundamentals  
+- Best practices for visualization and communication  
+
+---
+
+## 📫 Contact
+
+Feel free to explore my repositories — I’m continually adding new work as I grow in both **data science** and **bioinformatics programming**.
